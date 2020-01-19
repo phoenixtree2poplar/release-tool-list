@@ -24,4 +24,4 @@
 #### [notepad++](https://notepad-plus.en.softonic.com/)
 #### [postman](https://www.getpostman.com/)
 #### [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
-#### [typora](https://www.typora.io/)markdown文档
+#### [typora](https://www.typora.io/)
