@@ -17,9 +17,10 @@
 #### [v2ray](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/v2rayN-Core)(代理)【[官网](https://github.com/v2ray/v2ray-core/releases)】
 #### [TortoiseGit+中文补丁](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/TortoiseGit%2B%E4%B8%AD%E6%96%87%E8%A1%A5%E4%B8%81) 【[官网](https://tortoisegit.org/download/)】
 #### [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
+#### [mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
+#### [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
+#### [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](https://github.com/microsoftarchive/redis/releases)】
 ## 仅官网
 #### [notepad++](https://notepad-plus.en.softonic.com/)
 #### [postman](https://www.getpostman.com/)
 #### [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
-#### [nginx](http://nginx.org/en/download.html)
-#### [redis](https://github.com/microsoftarchive/redis/releases)
