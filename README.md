@@ -13,7 +13,7 @@
 #### [v2rayNG](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%AE%89%E5%8D%93apk) 【[官网](https://github.com/2dust/v2rayNG/releases)】
 #### [BeyondCompare](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E6%96%87%E4%BB%B6%E5%AF%B9%E6%AF%944.2) 【[官网](http://www.scootersoftware.com/download.php)】
 #### [jdk1.8中文文档](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)【[官网](https://docs.oracle.com/javase/8/docs/)】
-#### [win10 Defender一键关闭](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/关闭保护)【[官网](http://www.carrotchou.blog/27785.html)】
+#### [win10 Defender一键关闭](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%85%B3%E9%97%AD%E4%BF%9D%E6%8A%A4)【[官网](http://www.carrotchou.blog/27785.html)】
 #### [v2ray](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/v2rayN-Core)(代理)【[官网](https://github.com/v2ray/v2ray-core/releases)】
 #### [TortoiseGit+中文补丁](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/TortoiseGit%2B%E4%B8%AD%E6%96%87%E8%A1%A5%E4%B8%81) 【[官网](https://tortoisegit.org/download/)】
 #### [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
