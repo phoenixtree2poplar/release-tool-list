@@ -25,3 +25,4 @@
 2. [postman](https://www.getpostman.com/)
 4. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 5. [typora](https://www.typora.io/)
+# [个人配置](https://github.com/phoenixtree2poplar/release-config-me)
