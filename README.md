@@ -5,9 +5,9 @@
 #### [音乐下神器载器](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E5%99%A8)
 - [Thunder](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E8%BF%85%E9%9B%B7%E6%9C%80%E7%AE%80%E7%89%88)迅雷下载(文件位置修改)
 - [office-table插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/office%E6%8F%92%E4%BB%B6)
-#### [听歌插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/listen1) 【[官网](https://github.com/listen1/listen1_chrome_extension)]
-#### [wox+everything](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/everything文件搜索-wox软件搜索)本地搜索【[everything官网](https://everything.en.softonic.com/)】【[wox官网](http://www.wox.one/)】
-#### [FSCapture](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/FSCapture)(截图工具)
+- [听歌插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/listen1) 【[官网](https://github.com/listen1/listen1_chrome_extension)]
+- [wox+everything](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/everything文件搜索-wox软件搜索)本地搜索【[everything官网](https://everything.en.softonic.com/)】【[wox官网](http://www.wox.one/)】
+- [FSCapture](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/FSCapture)(截图工具)
 #### [ccleaner](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/ccleaner)(软件卸载工具-清理注册表)【[官网](https://www.ccleaner.com/)】
 #### [图片压缩工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/jpg)
 #### [v2rayNG](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%AE%89%E5%8D%93apk) 【[官网](https://github.com/2dust/v2rayNG/releases)】
