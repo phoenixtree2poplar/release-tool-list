@@ -19,7 +19,7 @@
 #### [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
 #### [mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
 #### [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
-#### [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](https://github.com/microsoftarchive/redis/releases)】
+#### [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 ## 仅官网
 #### [notepad++](https://notepad-plus.en.softonic.com/)
 #### [postman](https://www.getpostman.com/)
