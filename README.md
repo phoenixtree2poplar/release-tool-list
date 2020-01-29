@@ -19,8 +19,8 @@
 1. [TortoiseGit+中文补丁](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/TortoiseGit%2B%E4%B8%AD%E6%96%87%E8%A1%A5%E4%B8%81) 【[官网](https://tortoisegit.org/download/)】
 1. [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
 1. [mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
-2. [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
-2. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
+1. [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
+1. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 # 仅官网
 1. [notepad++](https://notepad-plus.en.softonic.com/)
 1. [postman](https://www.getpostman.com/)
