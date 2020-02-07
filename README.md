@@ -9,11 +9,11 @@
 1. [FSCapture](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/FSCapture)(截图工具)
 1. [图片压缩工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/jpg)
 1. [音乐下神器](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E5%99%A8)
-1. [听歌插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/listen1) 【[官网](https://github.com/listen1/listen1_chrome_extension)]
+1. [听歌插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/listen1) 【[官网](https://github.com/listen1/listen1_chrome_extension)]】
 1. [win10 Defender一键关闭](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%85%B3%E9%97%AD%E4%BF%9D%E6%8A%A4)【[官网](http://www.carrotchou.blog/27785.html)】
-1. [v2ray](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/v2rayN-Core)【[官网](https://github.com/v2ray/v2ray-core/releases)】
-1. [v2rayNG](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%AE%89%E5%8D%93apk) 【[官网](https://github.com/2dust/v2rayNG/releases)】
-1. [v2rayx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/v2rayx-mac)【[官网](https://github.com/Cenmrev/V2RayX/releases)】
+1. [v2ray](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/v2rayN-Core)【[官网](https://github.com/v2ray/v2ray-core/releases)】-win
+1. [v2rayNG](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%AE%89%E5%8D%93apk) 【[官网](https://github.com/2dust/v2rayNG/releases)】-Android
+1. [v2rayx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/v2rayx-mac)【[官网](https://github.com/Cenmrev/V2RayX/releases)】-mac
 1. [TortoiseGit+中文补丁](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/TortoiseGit%2B%E4%B8%AD%E6%96%87%E8%A1%A5%E4%B8%81) 【[官网](https://tortoisegit.org/download/)】
 1. [wox+everything](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/everything文件搜索-wox软件搜索)本地搜索【[everything官网](https://everything.en.softonic.com/)】【[wox官网](http://www.wox.one/)】
 1. [honeyview](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88%E5%99%A8)图片浏览器【[官网](https://honeyview.en.softonic.com/)】
