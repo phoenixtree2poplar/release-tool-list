@@ -4,7 +4,7 @@
 1. [Thunder](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E8%BF%85%E9%9B%B7%E6%9C%80%E7%AE%80%E7%89%88)迅雷最简版(文件位置修改)
 1. [Thunder](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/thunder)迅雷10去广告版
 1. [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
-1. [ccleaner](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/ccleaner)(软件卸载工具-清理注册表)【[官网](https://www.ccleaner.com/)】
+1. [ccleaner](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/CCleaner5.63)(软件卸载工具-清理注册表)【[官网](https://www.ccleaner.com/)】
 1. [office-table插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/office%E6%8F%92%E4%BB%B6)
 1. [FSCapture](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/FSCapture)(截图工具)
 1. [图片压缩工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/jpg)
