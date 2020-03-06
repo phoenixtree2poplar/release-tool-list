@@ -28,5 +28,7 @@
 1. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 1. [typora](https://www.typora.io/)
 # [个人配置](https://github.com/phoenixtree2poplar/release-config-me)
+# plugins插件
+1. [idea两插件](https://github.com/phoenixtree2poplar/release-pkg-v1/releases)
 ### 未验证
 1. 百度云盘破解版【[命令行版](https://github.com/iikira/BaiduPCS-Go/releases)】【[桌面版](https://github.com/liuzhuoling2011/baidupcs-web/releases)】【[说明](https://mp.weixin.qq.com/s/gs8B2bLPOZGGW8RuoNtGFQ)】
